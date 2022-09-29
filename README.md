@@ -1,6 +1,6 @@
 <img src="https://pbs.twimg.com/profile_banners/88835558/1633100950/1500x500" alt="Banner about Arturs Smirnovs">
 
-Hi I'm Luis Hernandez, I have worked for over 10 years in the internet industry in different fields where I have developed and led multiple projects. I am passionate about web development, cryptocurrencies, process optimization and learning new technologies. 
+Hi I'm Luis Hernandez, I have worked for over 10 years in the digital industry in different fields where I have developed and led multiple projects. I am passionate about web development, cryptocurrencies, process optimization and learning new technologies. 
 
 In recent years I have worked in the development of Crypto &NFT projects.
 
